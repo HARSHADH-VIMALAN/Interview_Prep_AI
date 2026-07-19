@@ -38,8 +38,8 @@ from groq import Groq
 # YOUR PROJECT FILES
 # ==========================================
 
-from ai.groq_client import ask_groq
-from models.resume_parser import extract_text
+from groq_client import ask_groq
+from resume_parser import extract_text
 
 # ==========================================
 # OPTIONAL (Only if you use PIL)
