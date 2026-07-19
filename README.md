@@ -98,10 +98,10 @@ InterviewPrep AI is an AI-powered interview preparation platform built with **St
 InterviewPrep-AI/
 │
 ├── app.py
-├── ai/
-├── models/
+├── groq_client.py
+├── __init__.py      ← Empty file
 ├── css/
-├── requirements.txt
+├── resume_parser.py
 └── README.md
 ```
 
